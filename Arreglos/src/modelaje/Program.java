@@ -39,6 +39,7 @@ public class Program
 		System.out.println(sema.getEstado().toString());
 		
 
+		
 	}
 
 }
